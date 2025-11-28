@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Omar Abbas 👋</h1>
 
 <p align="center">
-Backend Developer | Node.js & .NET | API Architect | DB Designer
+Backend Developer | Node.js & .NET 
 </p>
 
 ---
