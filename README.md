@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Omar Abbas 👋</h1>
+<h1 align="center">Hi, I'm Omar Abbas </h1>
 
 <p align="center">
 Backend Developer | Node.js & .NET 
@@ -6,18 +6,20 @@ Backend Developer | Node.js & .NET
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
+------------------------------------------------------
 I'm a backend developer passionate about building clean, scalable, and secure systems.
 
-- 🔥 I work with **Node.js**, **Express.js**, **C#**, **.NET Core**, and **MySQL**
-- 📡 I build full backend systems: APIs, authentication, dashboards, automation tools
-- 🚀 Currently learning **Advanced .NET**, **System Architecture**, and **Performance Optimization**
-- 💼 Interested in backend engineering, distributed systems, and DevOps basics
+-  I work with **Node.js**, **Express.js**, **C#**, **.NET Core**, and **MySQL**
+-  I build full backend systems: APIs, authentication, dashboards, automation tools
+-  Currently learning **Advanced .NET**, **System Architecture**, and **Performance Optimization**
+-  Interested in backend engineering, distributed systems, and DevOps basics
 
 ---
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 ###
+------------------------------------------------------
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
