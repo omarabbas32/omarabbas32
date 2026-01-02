@@ -39,12 +39,13 @@ I'm a backend developer passionate about building clean, scalable, and secure sy
 
 
 
-## 📬 Contact Me
+##  Contact Me
+------------------------------------------------------------------
 
 - 📧 Email: **abbas8989omar@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/omar-abbas-934086388**
-- 🟦 Portfolio: **coming soon…**
+- 
 
 ---
 
-<p align="center">🔥 Always building. Always learning. Always improving. 🔥</p>
+<p align="center"> Always building. Always learning. Always improving. </p>
