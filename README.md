@@ -1,8 +1,8 @@
-<h1 align="center">Omar Abbas</h1>
+<h1 align="center">Hi 👋, I'm Omar Abbas</h1>
 
 <p align="center">
   <b>Backend C#/.NET Developer</b><br/>
-  Building clean, scalable, and secure backend systems.
+  I build clean, scalable, and secure backend systems.
 </p>
 
 <p align="center">
@@ -20,36 +20,15 @@
 
 ## 🚀 About Me
 
-Backend developer focused on **ASP.NET Core**, with production experience shipping APIs, real-time features, and containerized deployments.
-
-```yaml
-role:      Backend Developer @ Wink (Oct 2025 – Present)
-building:  Project management & time tracking platform
-stack:     C# · ASP.NET Core · PostgreSQL · EF Core · SignalR · Docker
-focus:     Clean Architecture · CQRS · Secure Auth · Performance
-learning:  Advanced .NET · System Design · Performance Optimization
-```
-
-**What I do**
-
-- 🧩 Design production-ready REST APIs using **Clean Architecture** and the **CQRS** pattern
-- 🔐 Build secure auth systems — **JWT** access & refresh tokens, role-based authorization
-- ⚡ Ship real-time features with **SignalR** for live notifications and updates
-- 🗄️ Model and optimize databases with **EF Core** — schema design, indexing, query tuning
-- 🐳 Deploy and maintain containerized services with **Docker** on VPS environments
-
----
-
-## 💼 Experience
-
-**Backend Developer** — `Wink` · *Oct 2025 – Present*
-
-- Developed, tested, and deployed production backend services and APIs in C# / ASP.NET Core for a project management and time tracking system
-- Architected the backend following Clean Architecture principles for maintainability and scale
-- Implemented JWT authentication (access & refresh tokens) with role-based access control
-- Delivered real-time notifications and live updates via SignalR, integrated with frontend systems
-- Designed and managed the PostgreSQL schema with EF Core, optimizing for performance
-- Containerized and deployed services with Docker on VPS for reliable production environments
+- 🔭 I'm currently building **production backend services** for a project management & time tracking platform
+- 🧩 I design REST APIs with **Clean Architecture** and the **CQRS** pattern
+- 🔐 I build secure auth systems — **JWT** access & refresh tokens, role-based authorization
+- ⚡ I ship real-time features with **SignalR** for live notifications and updates
+- 🗄️ I model and optimize databases with **EF Core** — schema design, indexing, query tuning
+- 🐳 I deploy containerized services with **Docker** on VPS environments
+- 🌱 I'm currently learning **Advanced .NET, System Design, and Performance Optimization**
+- 💬 Ask me about **ASP.NET Core, REST APIs, PostgreSQL, or Clean Architecture**
+- 📫 Reach me at **abbas8989omar@gmail.com**
 
 ---
 
@@ -146,20 +125,28 @@ Backend for managing stores, products, and users.
 
 ---
 
+## 📊 GitHub Stats
+
+<!--
+  Replace YOUR_USERNAME below with your GitHub handle, then delete the first and
+  last line of this comment wrapper so the cards render.
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak"/>
+  </p>
+-->
+
+---
+
 ## 📫 Get in Touch
 
 - 📧 **Email** — [abbas8989omar@gmail.com](mailto:abbas8989omar@gmail.com)
 - 💼 **LinkedIn** — [omar-abbas](https://www.linkedin.com/in/omar-abbas-934086388)
 - 💬 Open to backend roles and full-time contract work
-
-<!--
-  Optional: GitHub stats cards. Replace YOUR_USERNAME with your GitHub handle to enable.
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-  </p>
--->
 
 ---
 
