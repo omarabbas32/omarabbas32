@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Abbas</h1>
 
 <p align="center">
-  <b>Backend C#/.NET Developer</b><br/>
-  I build clean, scalable, and secure backend systems.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=512BD4&center=true&vCenter=true&width=520&height=45&lines=Backend+C%23+%2F+.NET+Developer;ASP.NET+Core+%7C+PostgreSQL+%7C+Docker;Clean+Architecture+%26+CQRS;Building+scalable%2C+secure+APIs" alt="Backend C# / .NET Developer"/>
 </p>
 
 <p align="center">
@@ -12,7 +11,6 @@
   <a href="mailto:abbas8989omar@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Tanta,_Egypt-333333?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Open_to_Work-2EA44F?style=for-the-badge" alt="Open to Work"/>
 </p>
 
@@ -66,62 +64,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🚗 Car Rental Web API
-RESTful API for car rental services built on Clean Architecture.
-
-- CQRS to separate read and write operations
-- Layered, testable, well-documented codebase
-
-`C#` `ASP.NET Core` `Clean Architecture` `CQRS`
-
-  </td>
-    <td width="50%" valign="top">
-
-### 🕒 Project Management & Time Tracking
-Scalable backend for team projects and time tracking.
-
-- JWT auth with role-based access control
-- Real-time updates and notifications via SignalR
-
-`C#` `ASP.NET Core` `PostgreSQL` `SignalR`
-
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🎓 Student Management System
-Attendance tracking, payment recording, and reporting.
-
-- Absence & attendance tracking
-- Background jobs for automated processing
-- Payment records and generated reports
-
-`C#` `Razor Pages` `EF Core` `MySQL`
-
-  </td>
-    <td width="50%" valign="top">
-
-### 🏪 Store Builder Platform
-Backend for managing stores, products, and users.
-
-- REST APIs for store, product, and user operations
-- Schema designed with Prisma ORM on PostgreSQL
-
-`Node.js` `Prisma` `PostgreSQL` `REST APIs`
-
-  </td>
-  </tr>
-</table>
 
 ---
 
