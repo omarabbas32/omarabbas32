@@ -64,7 +64,7 @@ REST API for car rental operations, built as a reference implementation of Clean
 <img src="https://img.shields.io/badge/Clean_Architecture-2F4858?style=flat-square" alt="Clean Architecture"/>
 <img src="https://img.shields.io/badge/CQRS-4B6584?style=flat-square" alt="CQRS"/>
 &nbsp;
-<a href="https://github.com/YOUR_USERNAME/car-rental-api"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+<a href="https://github.com/omarabbas32/CarRentalWebApp"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
 
 ### Store Builder Platform
 Backend for a multi-store platform managing stores, products, and user operations.
@@ -77,7 +77,7 @@ Backend for a multi-store platform managing stores, products, and user operation
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 &nbsp;
-<a href="https://github.com/YOUR_USERNAME/store-builder"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+<a href="https://github.com/omarabbas32/StoreBuilder"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
 
 <br/>
 
