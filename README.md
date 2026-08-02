@@ -30,6 +30,57 @@ Currently going deeper on **advanced .NET, system design, and performance optimi
 
 <br/>
 
+## Selected Work
+
+<!--
+  LINKS: replace YOUR_USERNAME/repo-name in the "Source" badges below with the real
+  repo URLs. Delete the entire <a> line for any project that has no public repo —
+  the card still reads fine without it. Do not leave placeholder links live.
+-->
+
+### Project Management &amp; Time Tracking System
+Production platform for tracking team projects, tasks, and logged time.
+
+- Built the backend in ASP.NET Core following Clean Architecture, keeping domain logic independent of infrastructure
+- Implemented JWT authentication with access & refresh tokens and role-based access control
+- Delivered live notifications and updates over SignalR, integrated with the frontend
+- Designed the PostgreSQL schema with EF Core and deployed via Docker on VPS
+
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="SignalR"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+
+### Car Rental Web API
+REST API for car rental operations, built as a reference implementation of Clean Architecture.
+
+- Separated read and write paths with the CQRS pattern to keep queries independent of command validation
+- Structured the solution into distinct domain, application, and infrastructure layers for testability
+- Documented endpoints with Swagger for straightforward integration
+
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-2F4858?style=flat-square" alt="Clean Architecture"/>
+<img src="https://img.shields.io/badge/CQRS-4B6584?style=flat-square" alt="CQRS"/>
+&nbsp;
+<a href="https://github.com/YOUR_USERNAME/car-rental-api"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+
+### Store Builder Platform
+Backend for a multi-store platform managing stores, products, and user operations.
+
+- Built REST APIs covering store, product, and user operations, integrated with the frontend team
+- Modelled the PostgreSQL schema with Prisma ORM, using migrations to keep environments in sync
+- Demonstrates backend work outside the .NET stack, in Node.js
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+&nbsp;
+<a href="https://github.com/YOUR_USERNAME/store-builder"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+
+<br/>
+
 ## Tech Stack
 
 <table>
