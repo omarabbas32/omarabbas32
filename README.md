@@ -31,54 +31,6 @@ Currently going deeper on **Redis caching, Azure, distributed systems, and perfo
 
 <br/>
 
-## Selected Work
-
-### Project Management, Time Tracking & HR Platform &nbsp;<sub><i>Production · private repo</i></sub>
-Backend for an agency: projects, file reviews and approvals, task time tracking, and HR attendance, leave and payroll.
-
-- Built on **ASP.NET Core (.NET 9)** with **EF Core / PostgreSQL**, layered services and DTOs. The HR module was later refactored into **vertical slices** behind characterization tests
-- **JWT** access and refresh tokens (stored hashed), role-based access, and **SignalR** notifications authenticated per user
-- An **interval-merge "union time"** algorithm, so parallel tasks aren't double-counted. Auto-pause when a task exceeds its estimate
-- Detected fingerprint-device errors that were causing false payroll deductions, with a unit-tested punch-pairing detector
-- Fixed an **N+1** hotspot with bulk queries. Fixed production **CORS** errors that were hiding 500s. Rendered Arabic PDF reports
-- Shipped with a multi-stage **Docker** build on a VPS (Dokploy). File storage on S3-compatible **Cloudflare R2**
-
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="SignalR"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-
-### Car Rental Web API
-A car rental marketplace API with renters, owners, bookings and live updates.
-
-- **Clean Architecture + CQRS** with MediatR and a **FluentValidation** pipeline behavior
-- **EF Core / PostgreSQL**, **JWT** with rotating refresh tokens and BCrypt, **SignalR** notifications, Cloudinary for images
-- Security hardening: blocked self-registration as Admin, took the user's identity from the token instead of the request body (IDOR), removed secrets from Git with a CI check
-- Correct HTTP semantics: **409** for conflicts, **404** for missing resources, **401** for unauthenticated requests. Swagger docs
-
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-<img src="https://img.shields.io/badge/CQRS-4B6584?style=flat-square" alt="CQRS"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-&nbsp;
-<a href="https://github.com/omarabbas32/CarRentalWebApp"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
-
-### Store Builder Platform
-Backend for a multi-store platform that manages stores, products and user operations.
-
-- Built REST APIs for store, product and user operations, integrated with the frontend team
-- Modelled the PostgreSQL schema with Prisma ORM, using migrations to keep environments in sync
-- Backend work outside the .NET stack, in Node.js
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-&nbsp;
-<a href="https://github.com/omarabbas32/StoreBuilder"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
-
-<br/>
-
 ## Tech Stack
 
 <table>
