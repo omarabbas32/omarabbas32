@@ -95,8 +95,8 @@ Currently going deeper on **Redis caching, Azure, distributed systems, and perfo
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarabbas32&show_icons=true&theme=github_dark&hide_border=true&title_color=512BD4&icon_color=512BD4&count_private=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarabbas32&layout=compact&theme=github_dark&hide_border=true&title_color=512BD4" height="165" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omarabbas32&theme=github_dark" height="165" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com?user=omarabbas32&theme=github-dark-blue&hide_border=true&ring=512BD4&fire=512BD4&currStreakLabel=512BD4" height="165" alt="GitHub streak"/>
 </p>
 
 <br/>
