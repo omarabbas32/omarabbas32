@@ -92,12 +92,6 @@ Currently going deeper on **Redis caching, Azure, distributed systems, and perfo
 
 <br/>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omarabbas32&theme=github_dark" height="165" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=omarabbas32&theme=github-dark-blue&hide_border=true&ring=512BD4&fire=512BD4&currStreakLabel=512BD4" height="165" alt="GitHub streak"/>
-</p>
 
 <br/>
 
@@ -105,7 +99,6 @@ Currently going deeper on **Redis caching, Azure, distributed systems, and perfo
 
 **Email**: [abbas8989omar@gmail.com](mailto:abbas8989omar@gmail.com) &nbsp;·&nbsp; **LinkedIn**: [omar-abbas](https://www.linkedin.com/in/omar-abbas-934086388)
 
-Open to **remote** backend roles and full-time contract work. I'm in Egypt (UTC+2/+3), which overlaps with European working hours.
 
 <br/>
 
